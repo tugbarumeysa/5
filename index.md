@@ -29,6 +29,8 @@
 
 [Ödev 11](Grade 05 Unit 04 Smart Sheet.pdf)
 
+[Ödev 12](5.4.2.pdf)
+
 ## Unit-5
 
 ## Unit-6
