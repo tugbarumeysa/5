@@ -41,6 +41,9 @@
 
 [Ödev 15](Grade 05 Unit 06 Smart Sheet.pdf)
 
+[Ödev 16](5.6.2.pdf)
+
+
 ## Unit-7
 
 ## Unit-8
