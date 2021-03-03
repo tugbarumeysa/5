@@ -1,3 +1,7 @@
+## Readings
+
+[1. Beauty and the Beast](Beauty and the Beast.pdf)
+
 ## Unit-1
 
 [Ödev 1](Unit1-Practice1.pdf)
