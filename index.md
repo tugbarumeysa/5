@@ -58,6 +58,8 @@
 
 ## Unit-8
 
+[Ödev 20](5.8 Smart Tests.pdf)
+
 ## Unit-9
 
 ## Unit-10
