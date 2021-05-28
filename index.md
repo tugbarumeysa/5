@@ -64,4 +64,6 @@
 
 [Ödev 21](5.9 Smart Picture Test.pdf)
 
+[Ödev 22](5.9 Smart Tests.pdf)
+
 ## Unit-10
